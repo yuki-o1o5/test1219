@@ -1,0 +1,7 @@
+body {
+  background-color: beige;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}
